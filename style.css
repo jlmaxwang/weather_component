@@ -1,0 +1,9 @@
+.position {
+  position: relative;
+  right: 25px;
+  margin-right: -16px;
+}
+.card-body img {
+  height: 50px;
+  width: 50px;
+}
